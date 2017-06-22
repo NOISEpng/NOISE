@@ -1,0 +1,10 @@
+# Site settings
+title: NOISE, a Glitch Project
+tag_text: NOISE
+description:
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
